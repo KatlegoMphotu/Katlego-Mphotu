@@ -1,2 +1,2 @@
-# KatlegoMphotu-SovTech
+# KatlegoMphotu
 Software Developer Portfolio
