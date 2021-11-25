@@ -1,2 +1,1 @@
-# Katlego Mphotu
-Systems Developer
+
